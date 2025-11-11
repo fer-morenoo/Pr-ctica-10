@@ -1,5 +1,5 @@
 /* Fernanda Arely Moreno De León 
-Laboratorio 10 programa 2 */
+Laboratorio 10 programa 2a.c */
 
  
 #include<stdio.h> 
