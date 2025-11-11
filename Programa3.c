@@ -1,5 +1,5 @@
 /* Fernanda Arely Moreno De León 
-Laboratorio 10 programa 3 */
+Laboratorio 10 programa 1b.c */
 
 #include<stdio.h> 
 int main() 
